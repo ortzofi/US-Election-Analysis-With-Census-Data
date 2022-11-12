@@ -3,7 +3,7 @@ Elections in the US are held for government officials at the federal, state, and
 
 This project focuses on analyzing the 2020 presidential election and predicting voting behavior in the State of New York. Voting behavior in the US is affected by ethnicity, region, income, education, and many more factors. For this purpose, we train several regression models that would predict the share of vote each major party would receive. As an extra, we will try to forecast voting behavior in other states using the most successful model.
 
-![Image of the interactive New York map](NY Map Photo.png)
+![NY Map Photo](NY Map Photo.png)
 
 ## Data
 Our model will draw on the US census data for the State of New York. Nonetheless, this analysis can be replicated with any state (even all of the US) and any geographical entity supported by the Census Bureau.
