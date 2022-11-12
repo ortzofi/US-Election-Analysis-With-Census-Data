@@ -10,7 +10,7 @@ While most similar works include a statewide or countywide analysis, here we foc
 
 To create the dataset, I used the 2016-2020 American Community Survey data that I had taken from the US Census Bureau using their API. Then, I merged it with the 2020 election results by census block groups dataset that was published by Harvard University. The creation of the dataset is documented in the Data Preparation notebook.
 
-## So why is an analysis over census tracts important?
+## So why is a tract-level analysis important?
 The analysis of voting behavior of citizens, often takes up a huge amount of time by political parties in an attempt to realize where the support base for that party stands. As such, there are two main usecases:
 
 1) Political campaigns: Census tracts are smaller than counties or congressional districs. Analyzing them can therefore help political candidates target more accurate geographies. For instance: identifying more competitive tracts inside "swing districts" where candidates should allocate more resources in order to guarantee victory.
