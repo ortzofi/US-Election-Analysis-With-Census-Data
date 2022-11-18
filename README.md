@@ -1,4 +1,4 @@
-# US-Election-Analysis-With-Census-Data
+# US-Election-Analysis-with-Census-Data
 Elections in the US are held for government officials at the federal, state, and local level. Depending on the level, elections take place every two, four, or six years. The two major political parties are the Democratic Party and the Republican Party. American election results have significant implications for the US and the whole world.
 
 This project focuses on analyzing the 2020 presidential election and predicting voting behavior in the State of New York. Voting behavior in the US is affected by ethnicity, region, income, education, and many more factors. For this purpose, we train several regression models that would predict the share of vote each major party would receive. As an extra, we will try to forecast voting behavior in other states using the most successful model.
